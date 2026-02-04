@@ -32,7 +32,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/mattn/go-zglob v0.0.3
 	github.com/microcosm-cc/bluemonday v1.0.21
-	github.com/mileusna/useragent v1.2.1
+	github.com/mileusna/useragent v1.3.5
 	github.com/onsi/ginkgo/v2 v2.7.0
 	github.com/onsi/gomega v1.25.0
 	github.com/pressly/goose v2.7.0+incompatible
