@@ -1,6 +1,6 @@
 module github.com/navidrome/navidrome
 
-go 1.18
+go 1.24.0
 
 require (
 	code.cloudfoundry.org/go-diodes v0.0.0-20190809170250-f77fb823c7ee
@@ -46,7 +46,7 @@ require (
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
-	golang.org/x/sync v0.1.0
+	golang.org/x/sync v0.19.0
 	golang.org/x/text v0.6.0
 	golang.org/x/tools v0.5.0
 	gopkg.in/yaml.v3 v3.0.1
