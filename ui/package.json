@@ -18,7 +18,7 @@
     "lodash.throttle": "^4.1.1",
     "navidrome-music-player": "4.25.0",
     "prop-types": "^15.7.2",
-    "ra-data-json-server": "^3.18.3",
+    "ra-data-json-server": "^5.14.2",
     "ra-i18n-polyglot": "^3.18.3",
     "react": "^17.0.2",
     "react-admin": "^3.18.3",
