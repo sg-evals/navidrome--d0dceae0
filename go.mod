@@ -28,7 +28,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/kr/pretty v0.3.1
 	github.com/lestrrat-go/jwx/v2 v2.0.8
-	github.com/matoous/go-nanoid/v2 v2.0.0
+	github.com/matoous/go-nanoid/v2 v2.1.0
 	github.com/mattn/go-sqlite3 v1.14.33
 	github.com/mattn/go-zglob v0.0.3
 	github.com/microcosm-cc/bluemonday v1.0.21
@@ -41,7 +41,7 @@ require (
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.15.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.9.0
 	github.com/unrolled/secure v1.13.0
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e
@@ -210,7 +210,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/ssgreg/nlreturn/v2 v2.2.1 // indirect
 	github.com/stbenjam/no-sprintf-host-port v0.1.1 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
 	github.com/tdakkota/asciicheck v0.1.1 // indirect
 	github.com/tetafro/godot v1.4.11 // indirect
